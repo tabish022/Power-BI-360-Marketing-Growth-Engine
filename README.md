@@ -3,7 +3,8 @@
 ## 📊 Project Overview
 This Power BI dashboard provides a deep-dive analysis of e-commerce performance, tracking **$541.16K in Revenue** across multiple marketing channels. The project focuses on identifying the "Profitability Gap" where customer acquisition costs are currently outperforming order values.
 
----
+<img width="887" height="501" alt="Screenshot 2026-02-15 110643" src="https://github.com/user-attachments/assets/4332883e-fa4e-4809-805d-ea56b84ee3b9" />
+
 
 ## 💡 Strategic Key Insights
 
